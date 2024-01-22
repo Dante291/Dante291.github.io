@@ -43102,7 +43102,7 @@ A.a5C.prototype={
 $0(){var s,r,q=this.a,p=window.navigator
 p.toString
 s=t.z
-r=A.axe(A.aD(["text","Jai Shree Ram\ud83d\udd49\ud83d\udea9\n\n"+q.d+"\n\n"+q.e+" shared Maryada Purshottam virtual Ram with you. Share your thoughts about him here: https://dante291.github.io/"],s,s))
+r=A.axe(A.aD(["text","Jai Shree Ram\ud83d\udd49\ud83d\udea9\n\n"+q.d+"\n\n"+q.e+" shared Maryada Purshottam virtual Ram with you. Share your thoughts about him here: https://jaivram.spawnser.com"],s,s))
 q=p.share(r)
 q.toString
 A.fn(q,s)
